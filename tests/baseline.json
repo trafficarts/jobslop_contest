@@ -1,0 +1,188 @@
+{
+  "aiornot": {
+    "agency:apercon": {
+      "detected": 1,
+      "mean": 0.2226879113582371,
+      "n": 10
+    },
+    "agency:eql": {
+      "detected": 10,
+      "mean": 0.9030003276129062,
+      "n": 10
+    },
+    "agency:hrise": {
+      "detected": 8,
+      "mean": 0.8370981286992407,
+      "n": 10
+    },
+    "agency:lenkep": {
+      "detected": 10,
+      "mean": 0.9941184616616214,
+      "n": 10
+    },
+    "ai:gemini3.6flash": {
+      "detected": 10,
+      "mean": 0.9912439983050294,
+      "n": 10
+    },
+    "ai:gpt5.6sol-hi": {
+      "detected": 10,
+      "mean": 0.9973176669144284,
+      "n": 10
+    },
+    "ai:musespark1.3-hi": {
+      "detected": 10,
+      "mean": 0.9908728998754024,
+      "n": 10
+    },
+    "company:affpro": {
+      "detected": 10,
+      "mean": 0.9937107650347208,
+      "n": 10
+    },
+    "company:devils": {
+      "detected": 10,
+      "mean": 0.9961137768492577,
+      "n": 10
+    },
+    "company:trident_media": {
+      "detected": 8,
+      "mean": 0.9989031613510585,
+      "n": 8
+    },
+    "все агентства и компании, кроме lenkep": {
+      "detected": 76,
+      "mean": 0.8429133611570432,
+      "n": 90
+    },
+    "разное": {
+      "detected": 49,
+      "mean": 0.9352720512033592,
+      "n": 50
+    }
+  },
+  "gptzero": {
+    "agency:apercon": {
+      "detected": 3,
+      "mean": 0.3083754521122933,
+      "n": 10
+    },
+    "agency:eql": {
+      "detected": 4,
+      "mean": 0.3374260031423501,
+      "n": 10
+    },
+    "agency:hrise": {
+      "detected": 5,
+      "mean": 0.4754826501286845,
+      "n": 10
+    },
+    "agency:lenkep": {
+      "detected": 3,
+      "mean": 0.3314979932813982,
+      "n": 10
+    },
+    "ai:gemini3.6flash": {
+      "detected": 9,
+      "mean": 0.9241312836113773,
+      "n": 10
+    },
+    "ai:gpt5.6sol-hi": {
+      "detected": 9,
+      "mean": 0.9145803881268083,
+      "n": 10
+    },
+    "ai:musespark1.3-hi": {
+      "detected": 10,
+      "mean": 0.9991173027961621,
+      "n": 10
+    },
+    "company:affpro": {
+      "detected": 4,
+      "mean": 0.3806941393954325,
+      "n": 10
+    },
+    "company:devils": {
+      "detected": 1,
+      "mean": 0.22951856876390314,
+      "n": 10
+    },
+    "company:trident_media": {
+      "detected": 0,
+      "mean": 0.09269885248359475,
+      "n": 8
+    },
+    "все агентства и компании, кроме lenkep": {
+      "detected": 23,
+      "mean": 0.2947908760701502,
+      "n": 90
+    },
+    "разное": {
+      "detected": 12,
+      "mean": 0.2863930057389559,
+      "n": 50
+    }
+  },
+  "pangram": {
+    "agency:apercon": {
+      "detected": 10,
+      "mean": 1.0,
+      "n": 10
+    },
+    "agency:eql": {
+      "detected": 5,
+      "mean": 0.5170624449849128,
+      "n": 10
+    },
+    "agency:hrise": {
+      "detected": 8,
+      "mean": 0.8,
+      "n": 10
+    },
+    "agency:lenkep": {
+      "detected": 5,
+      "mean": 0.5944209635257721,
+      "n": 10
+    },
+    "ai:gemini3.6flash": {
+      "detected": 10,
+      "mean": 1.0,
+      "n": 10
+    },
+    "ai:gpt5.6sol-hi": {
+      "detected": 10,
+      "mean": 1.0,
+      "n": 10
+    },
+    "ai:musespark1.3-hi": {
+      "detected": 10,
+      "mean": 1.0,
+      "n": 10
+    },
+    "company:affpro": {
+      "detected": 7,
+      "mean": 0.7217289716005325,
+      "n": 10
+    },
+    "company:devils": {
+      "detected": 0,
+      "mean": 0.005815161019563675,
+      "n": 10
+    },
+    "company:trident_media": {
+      "detected": 0,
+      "mean": 0.11543630063533783,
+      "n": 8
+    },
+    "все агентства и компании, кроме lenkep": {
+      "detected": 42,
+      "mean": 0.5173662219610479,
+      "n": 90
+    },
+    "разное": {
+      "detected": 25,
+      "mean": 0.5364315569400787,
+      "n": 50
+    }
+  }
+}
